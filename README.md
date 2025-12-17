@@ -12,16 +12,16 @@ Four Bidirectional I/O Ports
 Three 16-Bit Timer Counters
 256 Bytes Scratchpad RAM
 On-Chip Memory
-16kB Flash Memory
+## 16kB Flash Memory
 In-System Programmable through Serial Port
-1kB SRAM for MOVX
+## 1kB SRAM for MOVX
 ROMSIZE Feature
 Selects Internal Program Memory Size from 0 to 16k
 Allows Access to Entire External Memory Map
 Dynamically Adjustable by Software
 High-Speed Architecture
-1 Clock-Per-Machine Cycle
-DC to 33MHz Operation
+## 1 Clock-Per-Machine Cycle
+## DC to 33MHz Operation
 Single-Cycle Instruction in 30ns
 Optional Variable Length MOVX to Access Fast/Slow Peripherals
 Dual Data Pointers with Auto Increment/Decrement and Toggle Select
