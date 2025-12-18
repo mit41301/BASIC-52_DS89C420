@@ -1,3 +1,16 @@
+## DS89C420 CHIP PLCC
+![01](https://github.com/user-attachments/assets/ec743183-330b-4407-86e4-96daa38c58f1)
+
+## DS89C420 CHIP PLCC SOCKET
+![02](https://github.com/user-attachments/assets/388a6846-0135-4e8e-b525-dd880fd8ccb8)
+
+## DS89C420 External ROM and RAM
+![03](https://github.com/user-attachments/assets/98acca4f-c71f-4539-80a9-5febe663521d)
+
+## DS89C420 Internal FLASH and 1kB RAM
+![04](https://github.com/user-attachments/assets/1883f6ca-2ec6-4af7-a8b9-af418e33abb3)
+
+
 # DS89C420_BASIC-52
 DS89C4XX microcontroller running BASIC-52 using internal flash memory and internal SRAM. 
 Only external crystal is required. Tested with 25MHz crystal. 
