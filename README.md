@@ -47,7 +47,7 @@ Programmable Watchdog Timer\
 13 Interrupt Sources (Six External)\
 Five Levels of Interrupt Priority\
 Power-Fail Reset\
-Early Warning Power-Fail Interrupt\
+Early Warning Power-Fail Interrupt  
 
 The DS89C420 was the first member of Maxim's ultra-high-speed flash microcontroller product line. It featured a redesigned processor core that executed every 8051 instruction (depending on the instruction type) up to 12 times faster than the original for the same crystal speed. Typical applications saw a speed improvement of 10 times using the same code and crystal. At a maximum crystal speed of 33MHz, execution rates up to 33 million instructions per second (MIPS) could be achieved.
 
